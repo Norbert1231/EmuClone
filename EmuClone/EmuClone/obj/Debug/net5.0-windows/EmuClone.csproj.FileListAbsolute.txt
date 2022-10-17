@@ -1,0 +1,196 @@
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form2.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Properties.Resources.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\Proiect\final\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AboutClonaEmu.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form2.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AboutClonaEmu.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Properties.Resources.resources
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\Gee.External.Capstone.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.pdb
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.xml
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Norbert\Desktop\Facultate\Anul3\Semestrul2\SMP\mitroi\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CopyComplete
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form2.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AboutClonaEmu.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Properties.Resources.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\Gee.External.Capstone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CopyComplete
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea8\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form2.resources
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AboutClonaEmu.resources
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Properties.Resources.resources
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\Gee.External.Capstone.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.dll
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\Gee.External.Capstone.pdb
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.pdb
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.xml
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CopyComplete
+C:\Users\Norbert\Downloads\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csprojAssemblyReference.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form1.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Form2.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AboutClonaEmu.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.Properties.Resources.resources
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.GenerateResource.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfoInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.AssemblyInfo.cs
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CoreCompileInputs.cache
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.exe
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.deps.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.runtimeconfig.dev.json
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\ref\EmuClone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\EmuClone.pdb
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\Gee.External.Capstone.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\bin\Debug\net5.0-windows\UnicornManaged.dll
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.csproj.CopyComplete
+C:\Users\daniel.mitroi1806\OneDrive - Universitatea Politehnica Bucuresti\Desktop\Materii_SEM_2\SMP\VersiuniProiect\Versiunea9\EmuClone\EmuClone\obj\Debug\net5.0-windows\EmuClone.genruntimeconfig.cache
